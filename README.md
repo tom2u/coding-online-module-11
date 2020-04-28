@@ -9,3 +9,4 @@ Each link is to the state of the webpage at the END of the indicated lesson.
 
 [11.1.5/zookeepr](https://tom2u.github.io/coding-online-module-11/11.1.5/zookeepr)  
 [11.1.6/zookeepr](https://tom2u.github.io/coding-online-module-11/11.1.6/zookeepr)  
+[11.1.7/zookeepr](https://tom2u.github.io/coding-online-module-11/11.1.7/zookeepr)  
